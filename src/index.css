@@ -58,3 +58,87 @@ body {
   height: "296px";
   width: 294.26px;
 }
+
+.slider-title {
+  color: #915970;
+  font-family: Almarai;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-align: center;
+}
+.slider-text {
+  color: #915970;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 53px;
+  text-align: center;
+}
+.allCard {
+  position: relative;
+  height: 130px;
+  width: 130px;
+}
+
+.category-card {
+  height: 140px;
+  width: 100%;
+  border-radius: 50%;
+  opacity: 0.3;
+}
+
+.category-card-img {
+  max-width: 110px;
+  max-height: 100px;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+.category-card-text {
+  color: #555550;
+  font-family: Almarai;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.shopping-now {
+  padding: 5px;
+  height: 35px;
+  width: 90px;
+  color: #272727;
+  text-decoration: none;
+  text-align: center;
+  border: 1px solid #272727;
+  border-radius: 14px;
+}
+
+.shopping-now:hover {
+  background-color: #272727;
+  border: 1px solid #272727;
+  color: #f9f9f9;
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+/* discount setion */
+.discount-backcolor {
+  height: 130px;
+  border-radius: 8px;
+  background: radial-gradient(circle, #767676 0%, #4d4f50 100%, #494c4d 100%);
+}
+.discount-title {
+  color: #ffffff;
+  font-family: Cairo;
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 39px;
+}
+.dicount-img {
+  max-height: 130px;
+  max-width: 80%;
+}
+/* end discount */
