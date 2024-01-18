@@ -12,7 +12,7 @@ const HomeCategory = () => {
   return (
     <Container>
         <Row>
-        <SubTitle title="التصنيفات" btntitle="المزيد"/>
+        <SubTitle title="التصنيفات" btntitle="المزيد" pathText="/allcategory"/>
         <CategoryCard title="اجهزة منزلية" img={clothe} background="#F4DBA4" />
         <CategoryCard title="اجهزة منزلية" img={cat2} background="#0034FF" />
         <CategoryCard title="اجهزة منزلية" img={clothe} background="#F4DBA4" />

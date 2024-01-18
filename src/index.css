@@ -142,3 +142,225 @@ body {
   max-width: 80%;
 }
 /* end discount */
+
+/* foter */
+.footer-background {
+  background-color: #ffffff;
+}
+
+.footer {
+  width: 100%;
+}
+.footer-shroot {
+  color: #979797;
+  font-family: Almarai;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 18px;
+  cursor: pointer;
+}
+
+.footer-phone {
+  color: #979797;
+  font-family: "Almarai";
+  font-size: 13px;
+  font-weight: bold;
+  text-align: right;
+  cursor: pointer;
+}
+/* end footer */
+/* card filter style */
+.search-count-text {
+  color: #979797;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: right;
+}
+.card-filter {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 170px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-filter-item {
+  font-size: 12px;
+  font-weight: 400;
+  padding: 10px;
+}
+.card-filter-item:hover {
+  background-color: #272727;
+  color: #ffffff;
+}
+/* end card filter */
+
+/* products details page */
+.product-gallary-card {
+  height: 470px !important;
+  width: 370px;
+  border-radius: 29px;
+  background-color: #ffffff;
+}
+
+.cat-text {
+  color: #979797;
+  font-family: "Almarai";
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 23px;
+  text-align: right;
+}
+
+.cat-title {
+  color: #555550;
+  font-family: Almarai;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: right;
+}
+
+.cat-rate {
+  color: #ffc107;
+  font-family: "Almarai";
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: right;
+}
+
+.barnd-text {
+  color: #555550;
+  font-family: "Almarai";
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.color {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.product-description {
+  color: #555550;
+  font-family: Cairo;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  text-align: right;
+}
+.product-price {
+  height: 46px;
+  width: 150px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 9px;
+  color: #555550;
+  font-family: "Almarai";
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #ffffff;
+}
+
+.product-cart-add {
+  cursor: pointer;
+  text-align: center;
+  height: 45px;
+  border-radius: 9px;
+  border: none;
+  background-color: #272727;
+  color: #ffffff;
+  font-family: "Almarai";
+  font-size: 14px;
+  font-weight: normal;
+}
+.product-cart-add:hover {
+  color: #bdbaba !important;
+}
+/* products gallary slide style */
+.image-gallery-slide {
+  width: 372px;
+  height: 470px;
+  border-radius: 29px;
+}
+/* end gallary */
+/* end products page */
+/* pagination */
+.page-link {
+  background-color: #f9f9f9 !important;
+  color: #272727 !important;
+  border-radius: 10px !important;
+  border: solid 1px 272727 !important;
+}
+.page-link:hover {
+  background-color: #272727 !important;
+  color: white !important;
+  border: solid 1px 272727 !important;
+}
+/* end pagination */
+
+/* category header */
+.cat-header {
+  height: 100%;
+  background-color: white;
+}
+
+.cat-text-header {
+  color: #979797;
+  font-family: "Almarai";
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 23px;
+  padding-top: 10px;
+  margin-left: 17px;
+  cursor: pointer;
+}
+.cat-text-header:hover {
+  color: #555550;
+}
+
+/* end categoery header */
+
+/* login and register style */
+
+.user-input {
+  box-sizing: border-box;
+  height: 37px;
+  width: 375px;
+  border: 1px solid #979797;
+  border-radius: 8px;
+}
+.title-login {
+  color: #555550;
+  font-family: Almarai;
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: right;
+}
+.btn-login {
+  height: 46px;
+  width: 374px;
+  border-radius: 9px;
+  border: none;
+  color: white;
+  background-color: #272727;
+}
+.btn-login:hover {
+  color: rgb(206, 204, 204);
+}
+
+/* end login and register */
